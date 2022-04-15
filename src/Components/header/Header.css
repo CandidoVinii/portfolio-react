@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.cabeçalho {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: right;
+  list-style: none;
+}
+
+.cabeçalho li {
+  padding: 10px;
+}
